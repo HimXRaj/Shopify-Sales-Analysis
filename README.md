@@ -66,14 +66,14 @@ The dashboard supports deep analysis across several business areas:
 
 ## 🚀 Getting Started
 
-You can open the `Shopify.pbix` file in Power BI Desktop to explore or modify the dashboard. The `Shopify Sales.xlsx` file contains the data source used in this analysis.
+You can open the <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify.pbix">`Shopify.pbix`</a> file in Power BI Desktop to explore or modify the dashboard. The <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales.xlsx">`Shopify Sales.xlsx`</a> file contains the data source used in this analysis.
 
 ---
 
 ## 📁 Repository Contents
 
-- `Shopify.pbix` – Main Power BI dashboard file  
-- `Shopify Sales.xlsx` – Data source (cleaned)
+- <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify.pbix">`Shopify.pbix`</a> – Main Power BI dashboard file  
+- <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales.xlsx">`Shopify Sales.xlsx`</a> – Data source (cleaned)
 - `README.md` – Project documentation  
 
 ---
