@@ -60,8 +60,8 @@ The dashboard supports deep analysis across several business areas:
 
 ## 📷 Dashboard Preview
 
-Here is a snapshot of the interactive Power BI dashboard showcasing key Shopify sales KPIs and visual trends:
-[Dashboard Preview](https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Dashboard%20Preview.png)]
+- Here is a snapshot of the interactive Power BI dashboard showcasing key Shopify sales KPIs and visual trends:
+[Dashboard Preview](https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Dashboard%20Preview.png)
 ---
 
 ## 🚀 Getting Started
