@@ -1,6 +1,6 @@
 # 🛍️ Shopify Sales Analytics Dashboard (Power BI)
 
-This project is an interactive Power BI dashboard developed to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
+This project involves developing an interactive Power BI dashboard to analyze Shopify sales data. The goal is to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By creating this interactive dashboard, stakeholders will be able to identify patterns in revenue generation, customer retention, and engagement trends, supporting more informed, data-driven decision-making.
 
 ## 📌 Project Overview
 
@@ -60,7 +60,7 @@ The dashboard supports deep analysis across several business areas:
 
 ## 📷 Dashboard Preview
 
-> _(Add screenshots or GIFs here for visual impact)_
+> _<a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Dashboard%20Preview.png">Dashboard Preview</a>_
 
 ---
 
