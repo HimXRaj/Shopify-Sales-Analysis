@@ -74,12 +74,12 @@ You can open the <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob
 
 - <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify.pbix">`Shopify.pbix`</a> – Main Power BI dashboard file  
 - <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales.xlsx">`Shopify Sales.xlsx`</a> – Data source (cleaned)
-- `README.md` – Project documentation  
+- <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/README.md">`README.md`</a> – Project documentation  
 
 ---
 
 ## 🙋‍♂️ Author
 
-**[Your Name]** – Data Analyst  
-[LinkedIn Profile]  
-[Email Address]
+**[Himanshu Rajput]** – Data Analyst  
+[www.linkedin.com/in/himxraj]  
+[workfhimanshu@gmail.com]
