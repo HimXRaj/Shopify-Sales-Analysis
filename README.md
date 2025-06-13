@@ -80,6 +80,6 @@ You can open the <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob
 
 ## 🙋‍♂️ Author
 
-**[Himanshu Rajput]** - 
-<a href="www.linkedin.com/in/himxraj">LinkedIn</a>
+**[Himanshu Rajput]** -\n
+<a href="www.linkedin.com/in/himxraj">`LinkedIn`</a> \n
 Email - workfhimanshu@gmail.com
