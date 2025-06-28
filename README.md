@@ -61,19 +61,19 @@ The dashboard supports deep analysis across several business areas:
 ## 📷 Dashboard Preview
 
 - Here is a snapshot of the interactive Power BI dashboard showcasing key Shopify sales KPIs and visual trends:
-[Dashboard Preview](https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Dashboard%20Preview.png)
+[Dashboard Preview](https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales%20Project/Dashboard%20Preview.png)
 ---
 
 ## 🚀 Getting Started
 
-You can open the <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify.pbix">`Shopify.pbix`</a> file in Power BI Desktop to explore or modify the dashboard. The <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales.xlsx">`Shopify Sales.xlsx`</a> file contains the data source used in this analysis.
+You can open the <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales%20Project/Shopify.pbix">`Shopify.pbix`</a> file in Power BI Desktop to explore or modify the dashboard. The <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales%20Project/Shopify%20Sales.xlsx">`Shopify Sales.xlsx`</a> file contains the data source used in this analysis.
 
 ---
 
 ## 📁 Repository Contents
 
-- <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify.pbix">`Shopify.pbix`</a> – Main Power BI dashboard file  
-- <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales.xlsx">`Shopify Sales.xlsx`</a> – Data source (cleaned)
+- <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales%20Project/Shopify.pbix">`Shopify.pbix`</a> – Main Power BI dashboard file  
+- <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/Shopify%20Sales%20Project/Shopify%20Sales.xlsx">`Shopify Sales.xlsx`</a> – Data source (cleaned)
 - <a href="https://github.com/HimXRaj/Shopify-Sales-Analysis/blob/main/README.md">`README.md`</a> – Project documentation  
 
 ---
